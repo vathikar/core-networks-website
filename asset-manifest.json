@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/core-networks-website/static/css/main.eabc1f86.css",
-    "main.js": "/core-networks-website/static/js/main.e9d04953.js",
+    "main.css": "/core-networks-website/static/css/main.ae582eaf.css",
+    "main.js": "/core-networks-website/static/js/main.9305505f.js",
     "static/js/563.75650aea.chunk.js": "/core-networks-website/static/js/563.75650aea.chunk.js",
+    "static/media/logo.png": "/core-networks-website/static/media/logo.45a7a137858e2a35cbc2.png",
     "index.html": "/core-networks-website/index.html",
-    "main.eabc1f86.css.map": "/core-networks-website/static/css/main.eabc1f86.css.map",
-    "main.e9d04953.js.map": "/core-networks-website/static/js/main.e9d04953.js.map",
+    "main.ae582eaf.css.map": "/core-networks-website/static/css/main.ae582eaf.css.map",
+    "main.9305505f.js.map": "/core-networks-website/static/js/main.9305505f.js.map",
     "563.75650aea.chunk.js.map": "/core-networks-website/static/js/563.75650aea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eabc1f86.css",
-    "static/js/main.e9d04953.js"
+    "static/css/main.ae582eaf.css",
+    "static/js/main.9305505f.js"
   ]
 }
